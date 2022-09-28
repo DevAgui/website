@@ -1,0 +1,18 @@
+.navbar{
+
+    background-color: #B88917;
+}
+
+.placeholder{
+    
+    margin-top: 10%;
+    background-color: #EEEEE4;
+    height: 50vh;
+    width: 25%;
+    box-shadow: -5px 5px 5px -2px #464545;
+}
+
+.placeholder:hover{
+
+    box-shadow: -5px 5px 100px -2px black;
+}
